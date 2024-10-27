@@ -1,7 +1,3 @@
-Here’s the updated README file with the requested sections removed and an Acknowledgements section added:
-
----
-
 # Image Classification with CNN
 
 This project focuses on building a Convolutional Neural Network (CNN) for image classification using a dataset of images categorized into various classes. The project demonstrates how to preprocess image data, build a CNN model, train the model, and evaluate its performance. Additionally, it showcases the capability to predict the class of new unseen images.
