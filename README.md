@@ -74,6 +74,4 @@ Additional libraries like `sklearn` are required for data splitting and evaluati
 - Acknowledgement to the creators of the dataset used in this project.
 - Thanks to the open-source community for the libraries such as TensorFlow, NumPy, and Matplotlib, which made this project possible.
 
---- 
 
-Let me know if you want any more adjustments!
